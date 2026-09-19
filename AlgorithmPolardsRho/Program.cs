@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AlgorithmPolardsRho;
+
+Console.WriteLine(PolardsRho.Algorithm(221));
